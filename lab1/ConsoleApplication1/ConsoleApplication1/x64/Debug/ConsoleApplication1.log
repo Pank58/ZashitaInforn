@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+D:\UNIK\3 КУРС СЕМЕСТР 1\Zashita Informacii\ЛАБА1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(577,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\UNIK\3 КУРС СЕМЕСТР 1\Zashita Informacii\ЛАБА1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
